@@ -6,10 +6,8 @@ echo " $abc";
 
 
 
-
-
-
-
+$cars = array("Volvo", "BMW", "Toyota");
+sort($cars);
 
 
 ?>
